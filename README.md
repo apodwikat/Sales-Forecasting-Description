@@ -106,7 +106,7 @@ Seasonal decomposition: Overall data and per-store sales
 
 Correlation heatmaps: Weekly sales vs. macroeconomic indicators
 
-Requirements
+# Requirements
 
 Install dependencies using pip:
 
@@ -141,7 +141,7 @@ CPI affects certain stores strongly (positive and negative correlations)
 
 Store-level disparities are substantial → top stores generate >30× sales of lowest performers
 
-Future Enhancements
+# Future Enhancements
 
 Add lag features and rolling statistics for improved forecasting accuracy
 
