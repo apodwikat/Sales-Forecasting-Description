@@ -4,7 +4,7 @@ Python, Pandas, Matplotlib, Scikit-learn. Time series forecasting  | Regression
 ### Author: Eng. Abdallah Dwikat
 ### Organization: Elevvopath Intern
 ### Date: 28th of August 2025
-
+xx
 This project focuses on analyzing and forecasting Walmart weekly sales using historical data. The analysis includes exploratory data analysis (EDA), statistical testing, feature engineering, and regression-based forecasting.
 
 Goals of the Repository
